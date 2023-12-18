@@ -17,9 +17,8 @@ El objetivo principal de este proyecto fue llevar a cabo un exhaustivo análisis
 ## Contenido del Repositorio
 1. **webscraping_main.ipynb**: Jupyter Notebook con el código de Python utilizado para el web scraping y el análisis inicial de los datos.
 2. **data_union.ipynb**: Jupyter Notebook con el código de Python utilizado para unir todos los .csv del webscraping en un único archivo.
-3. **Statgraphics_Analysis.sta**: Archivo de Statgraphics con los pasos y resultados del análisis estadístico.
-4. **Informe_AED.pdf**: Documento que detalla el proceso, métodos y resultados del análisis exploratorio.
-5. **Presentacion_AED.pptx**: Presentación en PowerPoint que resume los hallazgos clave del análisis.
+3. **Informe_AED.pdf**: Documento que detalla el proceso, métodos y resultados del análisis exploratorio.
+4. **Presentacion_AED.pptx**: Presentación en PowerPoint que resume los hallazgos clave del análisis.
 
 
 ## Cómo Iniciar
