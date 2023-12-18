@@ -25,8 +25,8 @@ El objetivo principal de este proyecto fue llevar a cabo un exhaustivo análisis
 ## Cómo Iniciar
 Para reproducir o explorar nuestro análisis, sigue estos pasos:
 
-1. Clona este repositorio: `git clone https://github.com/tuusuario/turepositorio.git`
-2. Abre el Jupyter Notebook `Exploratory_Data_Analysis.ipynb` para revisar el código y los pasos de web scraping.
+1. Clona este repositorio
+2. Abre los Jupyter Notebook `webscraping_main.ipynb` y  `data_union.ipynb` para revisar el código y los pasos de web scraping.
 3. Examina el archivo Statgraphics `Statgraphics_Analysis.sta` para obtener información detallada sobre el análisis estadístico.
 4. Consulta el informe en PDF `Informe_AED.pdf` para una visión completa de los resultados.
 5. Explora la presentación en PowerPoint `Presentacion_AED.pptx` para una visualización rápida de los hallazgos más destacados.
